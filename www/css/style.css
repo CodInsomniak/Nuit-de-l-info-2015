@@ -1,1 +1,7 @@
 /* Empty. Add your own CSS if you like */
+.draggable-marker {
+    width: 20px;
+    margin: 12px;
+    cursor: pointer;
+    z-index: 2;
+}
